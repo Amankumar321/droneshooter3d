@@ -12,10 +12,10 @@ Live demo - https://droneshooter3d.netlify.app
 
 # Sample
 
-![alt text](https://github.com/Amankumar321/droneshooter3d/blob/ds1.jpeg?raw=true)
-![alt text](https://github.com/Amankumar321/droneshooter3d/blob/ds2.jpeg?raw=true)
-![alt text](https://github.com/Amankumar321/droneshooter3d/blob/ds3.jpeg?raw=true)
-![alt text](https://github.com/Amankumar321/droneshooter3d/blob/ds4.jpeg?raw=true)
+![alt text](https://github.com/Amankumar321/droneshooter3d/blob/main/ds1.jpeg?raw=true)
+![alt text](https://github.com/Amankumar321/droneshooter3d/blob/main/ds2.jpeg?raw=true)
+![alt text](https://github.com/Amankumar321/droneshooter3d/blob/main/ds3.jpeg?raw=true)
+![alt text](https://github.com/Amankumar321/droneshooter3d/blob/main/ds4.jpeg?raw=true)
 
 # Original Work
 
