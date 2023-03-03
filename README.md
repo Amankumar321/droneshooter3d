@@ -12,10 +12,10 @@ Live demo - https://droneshooter3d.netlify.app
 
 # Sample
 
-![alt text](https://github.com/Amankumar321/pocket-tanks/blob/ds1.jpg?raw=true)
-![alt text](https://github.com/Amankumar321/pocket-tanks/blob/ds2.jpg?raw=true)
-![alt text](https://github.com/Amankumar321/pocket-tanks/blob/ds3.jpg?raw=true)
-![alt text](https://github.com/Amankumar321/pocket-tanks/blob/ds4.jpg?raw=true)
+![alt text](https://github.com/Amankumar321/droneshooter3d/blob/ds1.jpg?raw=true)
+![alt text](https://github.com/Amankumar321/droneshooter3d/blob/ds2.jpg?raw=true)
+![alt text](https://github.com/Amankumar321/droneshooter3d/blob/ds3.jpg?raw=true)
+![alt text](https://github.com/Amankumar321/droneshooter3d/blob/ds4.jpg?raw=true)
 
 # Original Work
 
